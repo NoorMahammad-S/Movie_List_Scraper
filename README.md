@@ -41,4 +41,3 @@ It uses the `requests` library to fetch the webpage and the `BeautifulSoup` libr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
